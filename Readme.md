@@ -17,3 +17,5 @@ O código está organizado em módulos usando um sistema nativo de módulos do G
 * Javascript
 * HTML
 * Bootstrap
+
+font: https://cursos.alura.com.br/course/javascript-padroes-abordagem-funcional
