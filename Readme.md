@@ -1,4 +1,4 @@
-# Botão azul (🇧🇷)
+# Botão azul :large_blue_circle: (🇧🇷)
 
 ![image](https://user-images.githubusercontent.com/39086256/184377320-c13669ce-2251-4bca-afef-3ac3d60ad871.png)
 
