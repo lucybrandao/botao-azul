@@ -1,4 +1,4 @@
-# Botão azul
+# Botão azul (🇧🇷)
 
 ![image](https://user-images.githubusercontent.com/39086256/184377320-c13669ce-2251-4bca-afef-3ac3d60ad871.png)
 
@@ -18,4 +18,5 @@ O código está organizado em módulos usando um sistema nativo de módulos do G
 * HTML
 * Bootstrap
 
-font: https://cursos.alura.com.br/course/javascript-padroes-abordagem-funcional
+## Font
+- [Alura / Javascript: de padrões a uma abordagem funcional](https://cursos.alura.com.br/course/javascript-padroes-abordagem-funcional)
